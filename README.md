@@ -50,9 +50,9 @@ A note on the visualization: GDP per capita and congestion delay sit on very dif
 
 ## Repository contents
 
-- `mobility-economy-analysis.ipynb` — full analysis notebook (written in Spanish)
-- `ladb_mobility_economy_2024_clean.csv` — cleaned, merged output dataset
-- `datasets/` — source data
+- `mobility-economy-analysis.ipynb` — full analysis notebook (written in Spanish), with all outputs and charts rendered
+
+The source datasets (TomTom traffic records and OECD city indicators) were provided by the TripleTen platform and are not redistributed here. The notebook reads them from `/datasets/` and exports the cleaned result as `ladb_mobility_economy_2024_clean.csv`.
 
 ---
 
